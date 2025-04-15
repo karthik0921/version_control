@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 i am from bengaluru
+=======
+I am from hosur
+>>>>>>> Stashed changes
