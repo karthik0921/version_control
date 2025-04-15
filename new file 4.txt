@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bengaluru
+=======
+hosur
+>>>>>>> e1430e1 (no message)
