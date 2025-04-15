@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 good morning
+=======
+good evening
+>>>>>>> Stashed changes
