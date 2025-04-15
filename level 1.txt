@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 I am from hosur
+=======
+hello, good morning
+>>>>>>> Stashed changes
