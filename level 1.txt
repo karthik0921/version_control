@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hi I am anu
-=======
-hello
->>>>>>> level1
+I am from hosur
